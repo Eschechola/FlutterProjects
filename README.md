@@ -1,2 +1,2 @@
-# TodoList
-Repositório contendo projetos desenvolvidos em Flutter para meios de estudo.
+# TodoListApp
+Todo List realizado no Curso "Iniciando com Flutter" do portal balta.io
